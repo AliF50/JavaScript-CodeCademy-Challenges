@@ -1,3 +1,8 @@
+// Find the sum of the first 100 prime numbers. Your code should be able to do this in less than 10 seconds.
+
+// After you are done, copy the code to either http://labs.codecademy.com or post it in the Challenge forum.
+
+// Note: Labs is no longer officially supported but works fine for now.
 var sumprimes = function sumprimes(howmany) {
     var sum = 0;
     count = 0;

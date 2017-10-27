@@ -1,3 +1,12 @@
+// Find the number of digits in the 500th Fibonacci number.
+
+// Fibonacci numbers are given by the following formula:
+
+// fibn = fibn-2 + fibn-1
+// fib0 = 1
+// fib_1 = 1
+
+// Again, code should run in under 10 seconds.
 var fiblength = function fiblength(nth) {
   var fib = [1, 1];
   var count = 2;
